@@ -30,7 +30,7 @@ public class ZeroSum {
 			}
 		}
 		System.out.println("Number of Distinct triplets: "+noOfTriplets);
-
+		sc.close();
 	}
 
 }
